@@ -5,6 +5,22 @@ O Bootcamp de Programação Competitiva da Polibits ensina o básico de C++ para
 **Autores**:
   - Henrique Eduardo: @henriqueedu2001
 
+## Compilação
+Na pasta desse repositório, você tem um arquivo `main.cpp`, com um template básico de um programa em C++. Você pode escrever seus códigos nele.
+
+Ao terminar de escrever o programa, abra o terminal do vs code. Certifique-se de que você está na pasta `bootcamp2024/`.
+Para executar o programa, você deve antes compilá-lo:
+
+```
+g++ -o main main.cpp
+```
+
+Em seguida, execute-o pelo terminal
+
+```
+./main
+```
+
 # Conteúdo
 
 ## Introdução ao C++
@@ -44,11 +60,7 @@ Resumo: _estudo de vetores, pilhas, filas, dentre outros, com a biblioteca STL_
 7. Busca em profundidade (DFS)
 8. Dijkstra
 
-**Bootcamp de Programação Competitiva em C++**
-
-**Descrição:**
-
-## Cronograma de Aulas (Preliminar)
+# Cronograma de Aulas (Preliminar)
 
 **Aula 1: Introdução**
 - Apresentação da Polibits
@@ -113,7 +125,7 @@ Resumo: _estudo de vetores, pilhas, filas, dentre outros, com a biblioteca STL_
 - Dijkstra
 - **Exercícios práticos**
 
-**Aula 11: Revisão e Prática de Problemas**
+<!-- **Aula 11: Revisão e Prática de Problemas**
 - Preparação para competições de programação
 - Discussão sobre estratégias de competição
-- Resolução de problemas práticos em equipe
+- Resolução de problemas práticos em equipe -->
