@@ -1,0 +1,215 @@
+n: 0
+f_n: 0
+count: 1
+elapsed time: 4.8e-07
+
+n: 1
+f_n: 1
+count: 2
+elapsed time: 1.5e-07
+
+n: 2
+f_n: 1
+count: 3
+elapsed time: 1e-07
+
+n: 3
+f_n: 2
+count: 4
+elapsed time: 8e-08
+
+n: 4
+f_n: 3
+count: 5
+elapsed time: 9e-08
+
+n: 5
+f_n: 5
+count: 6
+elapsed time: 1.3e-07
+
+n: 6
+f_n: 8
+count: 7
+elapsed time: 2e-07
+
+n: 7
+f_n: 13
+count: 8
+elapsed time: 1.5e-07
+
+n: 8
+f_n: 21
+count: 9
+elapsed time: 2.4e-07
+
+n: 9
+f_n: 34
+count: 10
+elapsed time: 2.4e-07
+
+n: 10
+f_n: 55
+count: 11
+elapsed time: 1.9e-07
+
+n: 11
+f_n: 89
+count: 12
+elapsed time: 2.2e-07
+
+n: 12
+f_n: 144
+count: 13
+elapsed time: 1.9e-07
+
+n: 13
+f_n: 233
+count: 14
+elapsed time: 2e-07
+
+n: 14
+f_n: 377
+count: 15
+elapsed time: 2.4e-07
+
+n: 15
+f_n: 610
+count: 16
+elapsed time: 2.8e-07
+
+n: 16
+f_n: 987
+count: 17
+elapsed time: 2.7e-07
+
+n: 17
+f_n: 1597
+count: 18
+elapsed time: 3.1e-07
+
+n: 18
+f_n: 2584
+count: 19
+elapsed time: 2.5e-07
+
+n: 19
+f_n: 4181
+count: 20
+elapsed time: 2.8e-07
+
+n: 20
+f_n: 6765
+count: 21
+elapsed time: 2.8e-07
+
+n: 21
+f_n: 10946
+count: 22
+elapsed time: 3.5e-07
+
+n: 22
+f_n: 17711
+count: 23
+elapsed time: 3e-07
+
+n: 23
+f_n: 28657
+count: 24
+elapsed time: 3.1e-07
+
+n: 24
+f_n: 46368
+count: 25
+elapsed time: 3.6e-07
+
+n: 25
+f_n: 75025
+count: 26
+elapsed time: 3.4e-07
+
+n: 26
+f_n: 121393
+count: 27
+elapsed time: 3.5e-07
+
+n: 27
+f_n: 196418
+count: 28
+elapsed time: 3.5e-07
+
+n: 28
+f_n: 317811
+count: 29
+elapsed time: 3.5e-07
+
+n: 29
+f_n: 514229
+count: 30
+elapsed time: 3.7e-07
+
+n: 30
+f_n: 832040
+count: 31
+elapsed time: 4e-07
+
+n: 31
+f_n: 1346269
+count: 32
+elapsed time: 3.9e-07
+
+n: 32
+f_n: 2178309
+count: 33
+elapsed time: 4e-07
+
+n: 33
+f_n: 3524578
+count: 34
+elapsed time: 4.2e-07
+
+n: 34
+f_n: 5702887
+count: 35
+elapsed time: 8.8e-07
+
+n: 35
+f_n: 9227465
+count: 36
+elapsed time: 4.5e-07
+
+n: 36
+f_n: 14930352
+count: 37
+elapsed time: 4.5e-07
+
+n: 37
+f_n: 24157817
+count: 38
+elapsed time: 4.6e-07
+
+n: 38
+f_n: 39088169
+count: 39
+elapsed time: 4.7e-07
+
+n: 39
+f_n: 63245986
+count: 40
+elapsed time: 4.9e-07
+
+n: 40
+f_n: 102334155
+count: 41
+elapsed time: 5.1e-07
+
+n: 41
+f_n: 165580141
+count: 42
+elapsed time: 5.1e-07
+
+n: 42
+f_n: 267914296
+count: 43
+elapsed time: 5.1e-07
+

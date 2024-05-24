@@ -1,0 +1,215 @@
+n: 0
+f_n: 1
+count: 1
+elapsed time: 4.7e-07
+
+n: 1
+f_n: 1
+count: 2
+elapsed time: 9e-08
+
+n: 2
+f_n: 2
+count: 5
+elapsed time: 2.4e-07
+
+n: 3
+f_n: 3
+count: 10
+elapsed time: 2.1e-07
+
+n: 4
+f_n: 5
+count: 19
+elapsed time: 2.5e-07
+
+n: 5
+f_n: 8
+count: 34
+elapsed time: 3.5e-07
+
+n: 6
+f_n: 13
+count: 59
+elapsed time: 4.8e-07
+
+n: 7
+f_n: 21
+count: 100
+elapsed time: 5.8e-07
+
+n: 8
+f_n: 34
+count: 167
+elapsed time: 8.2e-07
+
+n: 9
+f_n: 55
+count: 276
+elapsed time: 1.2e-06
+
+n: 10
+f_n: 89
+count: 453
+elapsed time: 1.76e-06
+
+n: 11
+f_n: 144
+count: 740
+elapsed time: 2.75e-06
+
+n: 12
+f_n: 233
+count: 1205
+elapsed time: 4.07e-06
+
+n: 13
+f_n: 377
+count: 1958
+elapsed time: 6.61e-06
+
+n: 14
+f_n: 610
+count: 3177
+elapsed time: 1.032e-05
+
+n: 15
+f_n: 987
+count: 5150
+elapsed time: 1.648e-05
+
+n: 16
+f_n: 1597
+count: 8343
+elapsed time: 2.625e-05
+
+n: 17
+f_n: 2584
+count: 13510
+elapsed time: 4.0481e-05
+
+n: 18
+f_n: 4181
+count: 21871
+elapsed time: 6.395e-05
+
+n: 19
+f_n: 6765
+count: 35400
+elapsed time: 9.7841e-05
+
+n: 20
+f_n: 10946
+count: 57291
+elapsed time: 0.000158142
+
+n: 21
+f_n: 17711
+count: 92712
+elapsed time: 0.000318753
+
+n: 22
+f_n: 28657
+count: 150025
+elapsed time: 0.000377843
+
+n: 23
+f_n: 46368
+count: 242760
+elapsed time: 0.000611316
+
+n: 24
+f_n: 75025
+count: 392809
+elapsed time: 0.000987058
+
+n: 25
+f_n: 121393
+count: 635594
+elapsed time: 0.0016103
+
+n: 26
+f_n: 196418
+count: 1028429
+elapsed time: 0.00282499
+
+n: 27
+f_n: 317811
+count: 1664050
+elapsed time: 0.00442943
+
+n: 28
+f_n: 514229
+count: 2692507
+elapsed time: 0.00685961
+
+n: 29
+f_n: 832040
+count: 4356586
+elapsed time: 0.00896192
+
+n: 30
+f_n: 1346269
+count: 7049123
+elapsed time: 0.00709734
+
+n: 31
+f_n: 2178309
+count: 11405740
+elapsed time: 0.0116482
+
+n: 32
+f_n: 3524578
+count: 18454895
+elapsed time: 0.0184245
+
+n: 33
+f_n: 5702887
+count: 29860668
+elapsed time: 0.02898
+
+n: 34
+f_n: 9227465
+count: 48315597
+elapsed time: 0.0464663
+
+n: 35
+f_n: 14930352
+count: 78176300
+elapsed time: 0.0768153
+
+n: 36
+f_n: 24157817
+count: 126491933
+elapsed time: 0.122084
+
+n: 37
+f_n: 39088169
+count: 204668270
+elapsed time: 0.196719
+
+n: 38
+f_n: 63245986
+count: 331160241
+elapsed time: 0.318348
+
+n: 39
+f_n: 102334155
+count: 535828550
+elapsed time: 0.517911
+
+n: 40
+f_n: 165580141
+count: 866988831
+elapsed time: 0.898263
+
+n: 41
+f_n: 267914296
+count: 1402817422
+elapsed time: 1.34936
+
+n: 42
+f_n: 433494437
+count: 2269806295
+elapsed time: 2.18132
+

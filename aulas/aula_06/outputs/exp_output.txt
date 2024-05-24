@@ -1,0 +1,325 @@
+n: 0
+2^n: 1
+count: 1
+elapsed time: 4e-07
+
+n: 1
+2^n: 2
+count: 3
+elapsed time: 1.5e-07
+
+n: 2
+2^n: 4
+count: 6
+elapsed time: 1.2e-07
+
+n: 3
+2^n: 8
+count: 10
+elapsed time: 1.3e-07
+
+n: 4
+2^n: 16
+count: 15
+elapsed time: 1.6e-07
+
+n: 5
+2^n: 32
+count: 21
+elapsed time: 1.5e-07
+
+n: 6
+2^n: 64
+count: 28
+elapsed time: 1.7e-07
+
+n: 7
+2^n: 128
+count: 36
+elapsed time: 1.3e-07
+
+n: 8
+2^n: 256
+count: 45
+elapsed time: 1.5e-07
+
+n: 9
+2^n: 512
+count: 55
+elapsed time: 1.5e-07
+
+n: 10
+2^n: 1024
+count: 66
+elapsed time: 1.6e-07
+
+n: 11
+2^n: 2048
+count: 78
+elapsed time: 1.7e-07
+
+n: 12
+2^n: 4096
+count: 91
+elapsed time: 1.9e-07
+
+n: 13
+2^n: 8192
+count: 105
+elapsed time: 1.9e-07
+
+n: 14
+2^n: 16384
+count: 120
+elapsed time: 2e-07
+
+n: 15
+2^n: 32768
+count: 136
+elapsed time: 2.4e-07
+
+n: 16
+2^n: 65536
+count: 153
+elapsed time: 2.4e-07
+
+n: 17
+2^n: 131072
+count: 171
+elapsed time: 2.5e-07
+
+n: 18
+2^n: 262144
+count: 190
+elapsed time: 2.6e-07
+
+n: 19
+2^n: 524288
+count: 210
+elapsed time: 2.7e-07
+
+n: 20
+2^n: 1048576
+count: 231
+elapsed time: 2.8e-07
+
+n: 21
+2^n: 2097152
+count: 253
+elapsed time: 2.9e-07
+
+n: 22
+2^n: 4194304
+count: 276
+elapsed time: 3e-07
+
+n: 23
+2^n: 8388608
+count: 300
+elapsed time: 3.1e-07
+
+n: 24
+2^n: 16777216
+count: 325
+elapsed time: 3.2e-07
+
+n: 25
+2^n: 33554432
+count: 351
+elapsed time: 3.3e-07
+
+n: 26
+2^n: 67108864
+count: 378
+elapsed time: 3.3e-07
+
+n: 27
+2^n: 134217728
+count: 406
+elapsed time: 3.4e-07
+
+n: 28
+2^n: 268435456
+count: 435
+elapsed time: 3.6e-07
+
+n: 29
+2^n: 536870912
+count: 465
+elapsed time: 3.6e-07
+
+n: 30
+2^n: 1073741824
+count: 496
+elapsed time: 3.7e-07
+
+n: 31
+2^n: -2147483648
+count: 528
+elapsed time: 3.8e-07
+
+n: 32
+2^n: 0
+count: 561
+elapsed time: 3.9e-07
+
+n: 33
+2^n: 0
+count: 595
+elapsed time: 4e-07
+
+n: 34
+2^n: 0
+count: 630
+elapsed time: 4.1e-07
+
+n: 35
+2^n: 0
+count: 666
+elapsed time: 4.1e-07
+
+n: 36
+2^n: 0
+count: 703
+elapsed time: 4.3e-07
+
+n: 37
+2^n: 0
+count: 741
+elapsed time: 4.4e-07
+
+n: 38
+2^n: 0
+count: 780
+elapsed time: 4.4e-07
+
+n: 39
+2^n: 0
+count: 820
+elapsed time: 4.6e-07
+
+n: 40
+2^n: 0
+count: 861
+elapsed time: 4.6e-07
+
+n: 41
+2^n: 0
+count: 903
+elapsed time: 4.7e-07
+
+n: 42
+2^n: 0
+count: 946
+elapsed time: 4.8e-07
+
+n: 43
+2^n: 0
+count: 990
+elapsed time: 4.9e-07
+
+n: 44
+2^n: 0
+count: 1035
+elapsed time: 5e-07
+
+n: 45
+2^n: 0
+count: 1081
+elapsed time: 5.1e-07
+
+n: 46
+2^n: 0
+count: 1128
+elapsed time: 5.21e-07
+
+n: 47
+2^n: 0
+count: 1176
+elapsed time: 5.3e-07
+
+n: 48
+2^n: 0
+count: 1225
+elapsed time: 5.4e-07
+
+n: 49
+2^n: 0
+count: 1275
+elapsed time: 5.4e-07
+
+n: 50
+2^n: 0
+count: 1326
+elapsed time: 5.5e-07
+
+n: 51
+2^n: 0
+count: 1378
+elapsed time: 5.6e-07
+
+n: 52
+2^n: 0
+count: 1431
+elapsed time: 5.7e-07
+
+n: 53
+2^n: 0
+count: 1485
+elapsed time: 5.8e-07
+
+n: 54
+2^n: 0
+count: 1540
+elapsed time: 5.9e-07
+
+n: 55
+2^n: 0
+count: 1596
+elapsed time: 6e-07
+
+n: 56
+2^n: 0
+count: 1653
+elapsed time: 6.1e-07
+
+n: 57
+2^n: 0
+count: 1711
+elapsed time: 6.2e-07
+
+n: 58
+2^n: 0
+count: 1770
+elapsed time: 6.2e-07
+
+n: 59
+2^n: 0
+count: 1830
+elapsed time: 6.3e-07
+
+n: 60
+2^n: 0
+count: 1891
+elapsed time: 6.4e-07
+
+n: 61
+2^n: 0
+count: 1953
+elapsed time: 6.6e-07
+
+n: 62
+2^n: 0
+count: 2016
+elapsed time: 6.7e-07
+
+n: 63
+2^n: 0
+count: 2080
+elapsed time: 6.8e-07
+
+n: 64
+2^n: 0
+count: 2145
+elapsed time: 6.8e-07
+
