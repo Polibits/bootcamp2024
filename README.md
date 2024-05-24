@@ -5,6 +5,9 @@ O Bootcamp de Programação Competitiva da Polibits ensina o básico de C++ para
 **Autores**:
   - Henrique Eduardo: @henriqueedu2001
 
+## Referências
+- [geeks for geeks](https://www.geeksforgeeks.org)
+
 ## Compilação
 Na pasta desse repositório, você tem um arquivo `main.cpp`, com um template básico de um programa em C++. Você pode escrever seus códigos nele.
 
