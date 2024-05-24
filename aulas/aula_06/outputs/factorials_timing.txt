@@ -1,0 +1,130 @@
+n: 0
+factorial: 1
+count: 1
+elapsed time: 2.8e-07
+
+n: 1
+factorial: 1
+count: 2
+elapsed time: 1.3e-07
+
+n: 2
+factorial: 2
+count: 3
+elapsed time: 9e-08
+
+n: 3
+factorial: 6
+count: 4
+elapsed time: 9e-08
+
+n: 4
+factorial: 24
+count: 5
+elapsed time: 1.1e-07
+
+n: 5
+factorial: 120
+count: 6
+elapsed time: 1.5e-07
+
+n: 6
+factorial: 720
+count: 7
+elapsed time: 1.7e-07
+
+n: 7
+factorial: 5040
+count: 8
+elapsed time: 1.6e-07
+
+n: 8
+factorial: 40320
+count: 9
+elapsed time: 1.7e-07
+
+n: 9
+factorial: 362880
+count: 10
+elapsed time: 1.6e-07
+
+n: 10
+factorial: 3628800
+count: 11
+elapsed time: 1.6e-07
+
+n: 11
+factorial: 39916800
+count: 12
+elapsed time: 1.3e-07
+
+n: 12
+factorial: 479001600
+count: 13
+elapsed time: 2e-07
+
+n: 13
+factorial: 6227020800
+count: 14
+elapsed time: 2.1e-07
+
+n: 14
+factorial: 87178291200
+count: 15
+elapsed time: 2e-07
+
+n: 15
+factorial: 1307674368000
+count: 16
+elapsed time: 2.4e-07
+
+n: 16
+factorial: 20922789888000
+count: 17
+elapsed time: 2.4e-07
+
+n: 17
+factorial: 355687428096000
+count: 18
+elapsed time: 2.6e-07
+
+n: 18
+factorial: 6402373705728000
+count: 19
+elapsed time: 2.6e-07
+
+n: 19
+factorial: 121645100408832000
+count: 20
+elapsed time: 2.7e-07
+
+n: 20
+factorial: 2432902008176640000
+count: 21
+elapsed time: 2.9e-07
+
+n: 21
+factorial: -4249290049419214848
+count: 22
+elapsed time: 2.9e-07
+
+n: 22
+factorial: -1250660718674968576
+count: 23
+elapsed time: 3.1e-07
+
+n: 23
+factorial: 8128291617894825984
+count: 24
+elapsed time: 3.2e-07
+
+n: 24
+factorial: -7835185981329244160
+count: 25
+elapsed time: 3.2e-07
+
+n: 25
+factorial: 7034535277573963776
+count: 26
+elapsed time: 3.3e-07
+
