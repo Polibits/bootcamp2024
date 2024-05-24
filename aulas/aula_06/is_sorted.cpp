@@ -1,9 +1,13 @@
 #include <bits/stdc++.h>
+#include <chrono>
 
 using namespace std;
 
+int CHECKING_COUNT = 0;
+
 bool is_sorted(vector<int> vec) {
     for(int i = 0; i < vec.size() - 1; i++) {
+        CHECKING_COUNT++;
         if(vec[i+1] < vec[i])
             return false;
     }
@@ -21,13 +25,17 @@ int main() {
         vec.push_back(aux);
     }
 
+    // execução cronometrada da busca
     auto start = std::chrono::high_resolution_clock::now();
-    bool array_sorted = is_sorted(vec);
+    int result = is_sorted(vec);
     auto end = chrono::high_resolution_clock::now();
 
     chrono::duration<double> duration = end - start;
-    cout << "is sorted: " << array_sorted << "\n";
-    cout << "duration: " << duration.count() << "\n";
+
+    // exibição dos resultados
+    cout << "result: " << result << '\n';
+    cout << "checking count: " << CHECKING_COUNT << '\n';
+    cout << "elapsed time: " << duration.count() << '\n';
 
     return 0;
 }

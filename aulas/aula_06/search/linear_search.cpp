@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include <chrono>
 
 using namespace std;
 
@@ -28,8 +29,17 @@ int main() {
         vec.push_back(aux);
     }
 
-    cout << "result: " << linear_search(vec, x) << '\n';
+    // execução cronometrada da busca
+    auto start = std::chrono::high_resolution_clock::now();
+    int result = linear_search(vec, x);
+    auto end = chrono::high_resolution_clock::now();
+
+    chrono::duration<double> duration = end - start;
+
+    // exibição dos resultados
+    cout << "result: " << result << '\n';
     cout << "checking count: " << CHECKING_COUNT << '\n';
+    cout << "elapsed time: " << duration.count() << '\n';
 
     return 0;
 }
