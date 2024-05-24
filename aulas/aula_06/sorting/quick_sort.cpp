@@ -15,17 +15,32 @@ void swap(int &a, int &b) {
     b = temp;
 }
 
-// ordena um vetor pelo bubble sort
-void bubble_sort(vector<int> &arr) {
-    int n = arr.size();
-    for (int i = 0; i < n-1; i++) {
-        // Últimos i elementos já estão na ordem correta
-        for (int j = 0; j < n-i-1; j++) {
-            COMPARISONS_COUNT++;
-            if (arr[j] > arr[j+1]) {
-                swap(arr[j], arr[j+1]);
-            }
+// Função para particionar o vetor usando o último elemento como pivô
+int partition(vector<int> &arr, int low, int high) {
+    int pivot = arr[high];  // pivô
+    int i = (low - 1);  // Índice do menor elemento
+
+    for (int j = low; j < high; j++) {
+        COMPARISONS_COUNT++;
+        // Se o elemento atual é menor ou igual ao pivô
+        if (arr[j] <= pivot) {
+            i++;    // incrementa o índice do menor elemento
+            swap(arr[i], arr[j]);
         }
+    }
+    swap(arr[i + 1], arr[high]);
+    return (i + 1);
+}
+
+// ordena o vetor pelo quick sort
+void quick_sort(vector<int> &arr, int low, int high) {
+    if (low < high) {
+        // pi é o índice de particionamento, arr[pi] está no lugar certo
+        int pi = partition(arr, low, high);
+
+        // Ordena os elementos antes e depois da partição
+        quick_sort(arr, low, pi - 1);
+        quick_sort(arr, pi + 1, high);
     }
 }
 
@@ -50,7 +65,7 @@ int main() {
 
     // execução cronometrada da ordenação
     auto start = std::chrono::high_resolution_clock::now();
-    bubble_sort(vec);
+    quick_sort(vec, 0, vec.size() - 1);
     auto end = chrono::high_resolution_clock::now();
 
     chrono::duration<double> duration = end - start;
@@ -61,8 +76,6 @@ int main() {
     cout << "elapsed time: " << duration.count() << '\n';
     cout << "result: " << '\n';
     print_vector(vec);
-
-    
     
     return 0;
 }
